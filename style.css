@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);   
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.titolo{
+    display: inline-block;
+    color: white;
+}
+
+.contenitore{
+    margin: auto;
+    width: 1500px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.titolo2{
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.numero{
+    border-radius: 50%;
+    border: 1px solid orange;
+    background-color: orange;
+    padding: 3px;
+}
+
+.principale{
+    margin: auto;
+    border: 1px solid black;
+    width: 1500px;
+    background-color: lightgrey;
+    padding: 3px;
+}
+
+.object{
+    width: 20%;
+    display: inline-block;
+}
+
+.body{
+    width: 78%;  
+    display: inline-block;  
+}
+
+.titolo3{   
+    color: white;
+}
+
+.contenitore2{   
+    padding-top: 10px;   
+    text-align: center;
+}
